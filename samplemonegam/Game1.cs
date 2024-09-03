@@ -18,7 +18,7 @@ namespace samplemonegam
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic h
+            // TODO: Add your initialization logic 
 
             base.Initialize();
         }
